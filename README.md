@@ -4,9 +4,13 @@
 
 This project develops a **Behavioral Learning Analytics Framework** that analyzes learner activity within a Learning Management System (LMS) to measure engagement, estimate confidence growth, and detect retention risk.
 
-The system works with a small cohort of **50 users**, therefore the goal is not large-scale AI prediction, but rather interpretable analytics and behavioral modeling.
+The system works with a small cohort of **50 users**, therefore the goal is not large-scale AI prediction, but rather interpretable analytics that helps stakeholders understand:
 
-Instead of surveys, the system uses **real behavioral data** such as lesson activity and quiz performance to understand learning progress.
+* How learners behave,
+* Where they drop off
+* What behaviour predict success
+
+The system relies entirely on **real behavioral data** such as lesson activity and quiz performance to understand learning progress.
 
 ---
 
